@@ -1,6 +1,4 @@
-# Hi there 👋, I'm Mamdouh Mohammed
-
-### A Junior Data Analyst from the UK, ready to turn data into actionable insights.
+# Welcome to my data space! 👋 My passion is finding the stories hidden in data.
 
 ---
 
