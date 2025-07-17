@@ -1,3 +1,18 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="<img width="1280" height="400" alt="image" src="https://github.com/user-attachments/assets/3534fd07-7971-46c8-a2d6-8539abb0ad95" />
+">
+    <source media="(prefers-color-scheme: light)" srcset="<img width="1280" height="400" alt="image" src="https://github.com/user-attachments/assets/ab9e5c0d-2939-4796-ab52-d2a3388257fa" />
+">
+    <img alt="Mamdouh Mohammed Banner" src="<img width="1280" height="400" alt="image" src="https://github.com/user-attachments/assets/aed10eb4-208c-450a-a4ed-e5c858e5c4af" />
+">
+  </picture>
+</p>
+
+
+---
+
+
 ## Welcome to my data space! 👋 My passion is finding the stories hidden in data.
 
 ---
