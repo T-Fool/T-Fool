@@ -1,9 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="[[URL_FOR_DARK_BANNER](https://github.com/T-Fool/T-Fool/blob/main/dark%20banner.png?raw=true)](https://github.com/T-Fool/T-Fool/blob/main/dark%20banner.png?raw=true)">
-    <source media="(prefers-color-scheme: light)" srcset="[[URL_FOR_LIGHT_BANNER](https://github.com/T-Fool/T-Fool/blob/main/light%20banner.png?raw=true)](https://github.com/T-Fool/T-Fool/blob/main/light%20banner.png?raw=true)">
-    <img alt="Mamdouh Mohammed Banner" src="[<img width="1280" height="400" alt="image" src="https://github.com/user-attachments/assets/e77d7852-0b94-4150-8d26-99a99d09ec37" />](https://github.com/T-Fool/T-Fool/blob/main/dark%20banner.png?raw=true)
-">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/T-Fool/T-Fool/blob/main/dark%20banner.png?raw=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/T-Fool/T-Fool/blob/main/light%20banner.png?raw=true">
+    <img alt="Mamdouh Mohammed Banner" src="https://github.com/T-Fool/T-Fool/blob/main/dark%20banner.png?raw=true">
   </picture>
 </p>
 
