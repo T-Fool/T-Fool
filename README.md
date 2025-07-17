@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi there 👋, I'm Mamdouh Mohammed
 
-<!--
-**T-Fool/T-Fool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A Junior Data Analyst from the UK, ready to turn data into actionable insights.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+With a qualification in business, I learned to value data-driven strategy. I chose a career in analytics to build the technical skills needed to turn raw data into a real business asset.
+
+Through an intensive Data Skills Bootcamp with justIT, I gained hands-on experience with the essential tools of the trade: SQL for querying, Python for analysis, and Power BI & Tableau for creating impactful visualizations.
+
+My focus is on the full data lifecycle—from cleaning and preparing data to building dashboards that provide clear, actionable insights. I am now seeking a junior data analyst role or apprenticeship where I can apply these skills to help solve real-world business challenges.
+
+---
+
+### 🛠️ Technical Skills
+
+*   **BI & Visualization:** &nbsp; Power BI (DAX, Power Query), Tableau, Excel (Pivot Tables, Advanced Formulas), Matplotlib, Seaborn
+*   **Languages & Databases:** &nbsp; Python, SQL, MySQL
+*   **Python Libraries:** &nbsp; Pandas, NumPy, Scikit-learn
+*   **Core Competencies:** &nbsp; Data Cleaning, Exploratory Data Analysis (EDA), Data Visualization, Predictive Modeling, Business Intelligence
+
+---
+
+### 🚀 Project Portfolio
+
+A collection of my hands-on projects from the justIT Data Skills Bootcamp.
+
+| Project | Description | Key Tools | Repository |
+| :--- | :--- | :--- | :--- |
+| **Power BI Sales Dashboard** | Built a comprehensive BI dashboard to analyze sales performance, track KPIs, and identify key business trends. | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) | [View Project](https://github.com/T-Fool/justit-powerbi-business-intelligence-labs) |
+| **UK Employment Dashboard** | Created an interactive Tableau dashboard to visualize and analyze employment changes across UK cities and industries. | ![Tableau](https.img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) | [View Project](https://github.com/T-Fool/justit-tableau-uk-employment-dashboard) |
+| **Vehicle MPG Prediction** | Developed a machine learning model to predict a vehicle's fuel efficiency based on its technical specifications. | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) | [View Project](https://github.com/T-Fool/justit-python-vehicle-mpg-prediction) |
+| **World Database Analysis** | Used advanced SQL queries, including joins and subqueries, to extract socio-economic insights from a relational database. | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | [View Project](https://github.com/T-Fool/justit-sql-world-database-analysis) |
+| **Student Performance EDA** | Performed exploratory data analysis (EDA) in Python to clean, analyze, and visualize factors influencing student performance. | ![Python](https.img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) | [View Project](https://github.com/T-Fool/justit-python-student-performance-analysis) |
+| **Excel Bike Sales Dashboard** | Designed a dynamic dashboard in Excel with Pivot Tables and Slicers to analyze sales data across multiple categories. | ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) | [View Project](https://github.com/T-Fool/justit-excel-bike-sales-pivot-dashboard) |
+
+<br>
+
+### 💡 Personal Projects
+
+*This section is currently under development. I am actively exploring new datasets to apply my skills to real-world questions and will be adding my independent analyses here soon!*
+
+---
+
+### 📫 Connect With Me
+
+*   **LinkedIn:** [YOUR LINKEDIN PROFILE URL HERE]
+*   **Email:** mamdouh.1998@hotmail.co.uk
