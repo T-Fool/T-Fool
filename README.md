@@ -85,7 +85,7 @@ My immediate goal is to secure a Level 4 Data Analyst Apprenticeship to apply an
 
 ### 📫 Connect With Me
 <p align="center">
-  <a href="[YOUR LINKEDIN PROFILE URL HERE]" target="_blank">
+  <a href="https://www.linkedin.com/in/mamdouh-mohammed-48324124b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
