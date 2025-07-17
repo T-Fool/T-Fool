@@ -4,7 +4,7 @@
 
 ### 👨‍💻 About Me
 
-In my business studies, I saw how often critical decisions relied on incomplete information. I was drawn to data analytics to master the tools that replace guesswork with evidence, turning raw data into a real business asset.
+In my business studies and work experiences, I saw how often critical decisions relied on incomplete information. I was drawn to data analytics to master the tools that replace guesswork with evidence, turning raw data into a real business asset.
 
 Through an intensive Data Skills Bootcamp with justIT, I gained hands-on experience with the essential tools of the trade: SQL for querying, Python for analysis, and Power BI & Tableau for creating impactful visualisations.
 
