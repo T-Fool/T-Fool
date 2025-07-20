@@ -102,5 +102,5 @@ My immediate goal is to secure a Level 4 Data Analyst Apprenticeship to apply an
 ### 📊 My GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=T-Fool&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Mamdouh's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mamdouh-mhm&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Mamdouh's GitHub Stats"/>
 </p>
