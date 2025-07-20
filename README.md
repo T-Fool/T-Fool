@@ -93,7 +93,7 @@ My immediate goal is to secure a Level 4 Data Analyst Apprenticeship to apply an
     <img src="https://img.shields.io/badge/Portfolio-343434?style=for-the-badge&logo=serverless&logoColor=white" alt="Portfolio"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:mamdouh.1998@hotmail.co.uk" target="_blank">
+  <a href="mailto:mamdouh.mhed@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
